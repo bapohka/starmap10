@@ -27,7 +27,9 @@ Built within 10 prompts at Claude with Vue 3, Three.js, and real astronomical da
 
 ## Example
 
-<video src="assets/example.mp4" controls width="600"></video>
+https://github.com/user-attachments/assets/c2c0107b-61e8-4b88-8b63-9052316bf339
+
+
 
 ## Quick Start
 
