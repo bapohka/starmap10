@@ -26,3 +26,4 @@ dist-ssr
 # CLAUDE unstructions
 .claude/*
 CLAUDE.md
+instruction.md
