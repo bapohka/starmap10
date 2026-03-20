@@ -25,6 +25,10 @@ Built within 10 prompts at Claude with Vue 3, Three.js, and real astronomical da
 - **HUD**: coordinate axes, camera position, scale bar, star count
 - **Star info sidebar** with photometry, position, and links to SIMBAD/Wikipedia
 
+## Example
+
+<video src="assets/example.mp4" controls width="600"></video>
+
 ## Quick Start
 
 ```bash
